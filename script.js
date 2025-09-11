@@ -14,10 +14,17 @@ afirmacao:"No inicio, eu ficaria com medo do que essa tecnologia pode fazer."
 
 },
 {
+    texto:"isso é incrivel!",
+    afirmação:"sempre quis saber como usar uma IA em meu dia a dia."
     
 }
+
 ]
 
-    }
-]
+    },
+
+
+
+
+
 
